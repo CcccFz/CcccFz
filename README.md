@@ -7,5 +7,5 @@
 
 Lang：Golang / Rust / ES6 / TypeScript / Python / Shell / SQL (TODO: Solidity / Dart)  
 Frame：Gin / Gorm / NodeJS / React / Vue / Wechat (TODO: RN / Uniapp / Electron / Flutter)  
-Infra：AWS / Aliyun / Docker / K8S / Prometheus / Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch / ELK / Jenkins
+Infra：AWS / Aliyun / Docker / K8S / Prometheus / Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch / ELK / Jenkins  
 Tool: Git / Jetbrins / Notion / Slack
