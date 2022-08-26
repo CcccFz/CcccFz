@@ -5,6 +5,7 @@
 <!-- Stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=CcccFz&hide_title=false&hide_border=true&show_icons=false&include_all_commits=true&count_private=true&line_height=20&theme=dracula)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CcccFz&hide_title=false&hide_border=true&layout=compact&theme=dracula)
 
-Backend：Golang / Rust / Python / Shell
-Frontend：ES5 / TypeScript
-SRE：Docker / K8S
+Lang：Golang / Rust / ES5 / TypeScript / Python / Shell / SQL (TODO: Solidity / Dart)  
+Frame：Gin / Gorm / React / Vue (TODO: RN / Uniapp / Electron / Flutter)  
+Infra：AWS / AliyunCloud / Docker / K8S / Prometheus / Nginx / Mysql / PostgresSQL / MonogoDB / Redis / Kafka / Elasticsearch / InfluxDB / ELK (TODO: RocketMQ)  
+Tool: Git / Jetbrins / Notion / Slack
