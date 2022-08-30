@@ -8,4 +8,4 @@
 Lang：Golang / Rust / TypeScript / Python / Shell / Solidity  
 Frame：Gin / Gorm / React / ReactNative / Vue / Uniapp / Electron  
 Infra：AWS / Aliyun / K8S / Prometheus / Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch / Jenkins  
-Tool: Git / Docker / Github / Jetbrins / Notion / Slack / Linear  
+Tool：Git / Docker / Github / Jetbrins / Notion / Slack / Linear  
