@@ -7,5 +7,5 @@
 
 Lang：Golang / Rust / ES6 / TypeScript / Nodejs / Python / Shell / SQL / Solidity  
 Frame：Microservice / Express / Gin / Gorm / gRpc / React / ReactNative / Hardhat / Ethers.js  
-Infra：AWS / Aliyun / K8S / Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch / Prometheus / Jenkins   
+Infra：AWS / Aliyun / K8S / Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch  
 Tool：Git / Docker / Github / Notion / Slack  
