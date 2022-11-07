@@ -5,7 +5,8 @@
 <!-- Stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=CcccFz&hide_title=false&hide_border=true&show_icons=false&include_all_commits=true&count_private=true&line_height=20&theme=dracula)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CcccFz&hide_title=false&hide_border=true&layout=compact&theme=dracula)
 
-Lang：Golang / Rust / ES6 / TypeScript / Nodejs / Python / Shell / SQL / Solidity  
-Frame：Microservice / Express / Gin / Gorm / gRpc / React / ReactNative / Hardhat / Ethers.js  
-Infra：AWS / Aliyun / K8S / Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch  
+Lang：Golang / Rust / ES6 / TypeScript / Python / Shell / SQL / Solidity  
+Frame Gin / Gorm / gRPC / React / ReactNative / Hardhat / Ethers.js  
+Infra：Aliyun / K8S / Service Mesh  
+Middleware：Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch  
 Tool：Git / Docker / Github / Notion / Slack  
