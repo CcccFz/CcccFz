@@ -9,5 +9,5 @@ Lang：Golang / Rust / ES6 / TypeScript / Node.js / Python / Shell / SQL / Solid
 Frame：Gin / Gorm / Express / gRPC / Vue / React / ReactNative / Hardhat / Ethers.js  
 Middleware：Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch  
 Infra：Aliyun / K8S / Istio / Prometheus  
-System: Linux / Browser / BlockChain  
+System：Linux / Browser / BlockChain  
 Tool：Git / Docker / Github / Notion / Slack  
