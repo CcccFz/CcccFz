@@ -11,6 +11,3 @@ Middleware：Nginx / Mysql / MonogoDB / Redis / Kafka / Elasticsearch
 Infra：Aliyun / K8S / Istio / Prometheus / CI/CD   
 System：Linux / Browser / BlockChain  
 Tool：Git / Docker / Github / Notion / Slack  
-
-
-<div  align="center"><img src="wx.jpg" width="280" height="350" alt="添加微信" align=center></div>
