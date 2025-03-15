@@ -7,5 +7,8 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CcccFz&hide_title=false&hide_border=true&layout=compact&theme=dracula)
 
 
-Stack: Full Stack / SRE / AI Agent  
-Lang: Golang / TypeScript / Python / Shell   
+Stack:  
+Full Stack / SRE / AI Agent  
+  
+Lang:  
+Golang / TypeScript / Python / Shell   
