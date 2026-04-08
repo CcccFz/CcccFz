@@ -11,9 +11,9 @@ Role:
 AI Full Stack Developer  
   
 Lang:  
-TypeScript , Golang , Dart , Python , Shell  
+TypeScript , Golang , Dart    
   
 Stack:  
-React , Hono , Gin , Fluuter , Agent , SRE  
+React , Hono / Gin , Flutter , AI Agent , K8S / SRE  
 
   
